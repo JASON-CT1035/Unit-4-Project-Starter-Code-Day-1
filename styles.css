@@ -1,0 +1,33 @@
+img {
+    height: 20px;   
+}
+.container
+{
+    color:blue;
+}
+.para {
+    border: solid 5px red;
+display:flex;
+    justify-content:center;
+}
+.img {
+    width:500px;
+    height:300px;
+}
+.top {
+display:flex;
+justify-content:space-around;
+}
+.abilities {
+    display:flex;
+    justify-content: flex-end;
+    
+}
+.bog {
+    background-color:red;
+    border:solid 5px green;
+}
+.ninfo {
+    background-color: orange;
+    border:dotted 5px black;
+}
